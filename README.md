@@ -9,8 +9,10 @@ Módulo para Xposed Framework v84+ que remove a verificação de root executada 
 Ao abrir o aplicativo MEU TIM o seguinte aviso é exibido, caso seu dispositivo Android esteja com o modo root habilitado:
 ![](https://raw.githubusercontent.com/glauberlima/MEUTIM-RootCheckingRemover/master/doc/meutim_root_message.png)
 
-##Aplicativo MEU TIM
+##Download
+http://repo.xposed.info/module/br.com.glauber.android.xposed.meutim_rootcheckingremover
 
+##Aplicativo MEU TIM
 Download oficial na Google Play Store:
 https://play.google.com/store/apps/details?id=br.com.timbrasil.meutim
 
