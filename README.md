@@ -1,4 +1,6 @@
 #MEU TIM - Root Checking Remover
+
+[![Join the chat at https://gitter.im/glauberlima/MEUTIM-RootCheckingRemover](https://badges.gitter.im/glauberlima/MEUTIM-RootCheckingRemover.svg)](https://gitter.im/glauberlima/MEUTIM-RootCheckingRemover?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/glauberlima/MEUTIM-RootCheckingRemover.svg?branch=master)](https://travis-ci.org/glauberlima/MEUTIM-RootCheckingRemover)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/glauberlima/MEUTIM-RootCheckingRemover/blob/master/LICENSE)
 
