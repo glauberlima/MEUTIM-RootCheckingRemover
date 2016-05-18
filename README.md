@@ -19,5 +19,5 @@ https://play.google.com/store/apps/details?id=br.com.timbrasil.meutim
 Versões compatíveis:
 3.0.18
 
-##Suporte e ajuda - Sala do Gitter
-https://gitter.im/glauberlima/MEUTIM-RootCheckingRemover
+##Suporte e ajuda - Google Spaces
+https://goo.gl/spaces/tfXXLWsJtHC6354Q8
