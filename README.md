@@ -19,5 +19,5 @@ https://play.google.com/store/apps/details?id=br.com.timbrasil.meutim
 Versões compatíveis:
 3.0.18
 
-##Suporte e ajuda - Google Spaces
-https://goo.gl/spaces/tfXXLWsJtHC6354Q8
+##Tópico no XDA Developers
+http://forum.xda-developers.com/xposed/modules/xposed-meu-tim-root-checking-remover-t3383729
