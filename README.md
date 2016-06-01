@@ -1,4 +1,4 @@
-#MEU TIM - Root Checking Remover
+#MEU TIM - Root Checking Remover [OBSOLETO]
 [![Build Status](https://travis-ci.org/glauberlima/MEUTIM-RootCheckingRemover.svg?branch=master)](https://travis-ci.org/glauberlima/MEUTIM-RootCheckingRemover)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/glauberlima/MEUTIM-RootCheckingRemover/blob/master/LICENSE)
 
